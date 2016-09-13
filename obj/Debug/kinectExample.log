@@ -1,0 +1,14 @@
+﻿     Creating library bin\kinectExample_debug.lib and object bin\kinectExample_debug.exp
+  kinectExample.vcxproj -> C:\of_v0.9.3_vs_release\apps\myApps\colunasinterativas\bin\kinectExample_debug.exe
+  kinectExample.vcxproj -> bin\kinectExample_debug.pdb (Full PDB)
+  
+  	                   9	C:\of_v0.9.3_vs_release\export\vs\Win32\
+  	  *EXTRA File 		 1503232	C:\of_v0.9.3_vs_release\apps\myApps\colunasinterativas\bin\fmodex64.dll
+  	  *EXTRA File 		 1552384	C:\of_v0.9.3_vs_release\apps\myApps\colunasinterativas\bin\fmodexL64.dll
+  	    Newer     		 2939392	C:\of_v0.9.3_vs_release\export\vs\Win32\assimp.dll
+  	    Newer     		 5647872	C:\of_v0.9.3_vs_release\export\vs\Win32\FreeImage.dll
+  	    Newer     		  580608	C:\of_v0.9.3_vs_release\export\vs\Win32\freetype.dll
+  	    Newer     		  237568	C:\of_v0.9.3_vs_release\export\vs\Win32\glut32.dll
+  	    Newer     		 1178624	C:\of_v0.9.3_vs_release\export\vs\Win32\libeay32.dll
+  	    Newer     		  269824	C:\of_v0.9.3_vs_release\export\vs\Win32\ssleay32.dll
+  	    Newer     		   69632	C:\of_v0.9.3_vs_release\export\vs\Win32\Zlib.dll

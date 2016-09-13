@@ -4,4 +4,4 @@ Esta obra reflete a presença e a ausência, trabalhando o lúdico com o contras
 
 > O que é a presença?
 
-![Dança da brisa](https://github.com/brisarte/sl.png "Dança da brisa")
+![Dança da brisa](https://github.com/brisarte/presencia-te/raw/master/data/dancadabrisa.png "Dança da brisa")
